@@ -71,7 +71,6 @@
 ## 效果展示：
 * 基本界面
 ![基本界面1](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/Clound_Programming/1.png)
-<br>
 ![基本界面2](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/Clound_Programming/2.png)
 
 * C 
