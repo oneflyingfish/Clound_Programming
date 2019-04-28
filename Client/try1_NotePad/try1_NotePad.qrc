@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/try1_NotePad">
+        <file>Icon/NotepadLogo.ico</file>
+    </qresource>
+</RCC>

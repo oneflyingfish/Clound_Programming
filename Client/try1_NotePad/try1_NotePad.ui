@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>try1_NotePadClass</class>
+ <widget class="QWidget" name="try1_NotePadClass" >
+  <property name="objectName" >
+   <string notr="true">try1_NotePadClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+	<x>0</x>
+	<y>0</y>
+	<width>600</width>
+	<height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>try1_NotePad</string>
+  </property>
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="try1_NotePad.qrc"/>
+ </resources>
+ <connections/>
+</UI>
