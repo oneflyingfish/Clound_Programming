@@ -91,3 +91,5 @@
 
 * Python3 
 ![Python3](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/Clound_Programming/Python3.png) 
+
+`注：`程序提供了releases版本下载，可前往[下载链接](https://github.com/oneflyingfish/Clound_Programming/releases)
