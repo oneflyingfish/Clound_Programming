@@ -72,24 +72,4 @@
 * 对于一个团队、群体而言，只需要在服务器上搭建环境即可，做到集中编译，共享环境
 * 未来不仅仅做到执行，还可以支持调试功能
 
-## 效果展示：
-* 基本界面
-![基本界面1](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/Clound_Programming/1.png)
-![基本界面2](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/Clound_Programming/2.png)
-
-* C 
-![C](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/Clound_Programming/C.png) 
-
-* C++ 
-![C++](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/Clound_Programming/Cpp.png) 
-
-* Java 
-![Java](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/Clound_Programming/Java.png) 
-
-* Python2 
-![Python2](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/Clound_Programming/Python2.png) 
-
-* Python3 
-![Python3](https://github.com/oneflyingfish/a_flying_fish/blob/master/Pictures/Clound_Programming/Python3.png) 
-
 `注：`程序提供了releases版本下载，可前往[下载链接](https://github.com/oneflyingfish/Clound_Programming/releases)
